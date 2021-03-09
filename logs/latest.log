@@ -1,0 +1,34 @@
+[01:08:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:08:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:08:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:08:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:08:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:08:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:08:12] [main/INFO]: Reloading ResourceManager: Default
+[01:08:14] [Worker-Main-2/INFO]: Loaded 7 recipes
+[01:08:14] [Worker-Main-2/INFO]: Loaded 927 advancements
+[01:08:18] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[01:08:18] [Server thread/INFO]: Loading properties
+[01:08:18] [Server thread/INFO]: Default game type: SURVIVAL
+[01:08:18] [Server thread/INFO]: Generating keypair
+[01:08:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:08:18] [Server thread/INFO]: Using epoll channel type
+[01:08:18] [Server thread/INFO]: Preparing level "world"
+[01:08:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:21] [Server thread/INFO]: Preparing spawn area: 0%
+[01:08:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:08:22] [Worker-Main-3/INFO]: Preparing spawn area: 48%
+[01:08:23] [Server thread/INFO]: Time elapsed: 4766 ms
+[01:08:23] [Server thread/INFO]: Done (4.993s)! For help, type "help"
+[01:08:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[01:09:41] [User Authenticator #1/INFO]: UUID of player AutomatoFumante is 844580fa-1972-44a8-ba1a-281ca6422bb1
+[01:09:42] [Server thread/INFO]: AutomatoFumante[/179.98.82.209:50131] logged in with entity id 226 at (48.5, 63.0, 154.5)
+[01:09:42] [Server thread/INFO]: AutomatoFumante joined the game
+[01:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[01:13:30] [Server thread/WARN]: AutomatoFumante moved too quickly! -9.662871138210974,1.1661092609382138,-3.0972049647955373
+[01:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
